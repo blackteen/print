@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
+body{
+    font-family: "Roboto";
+}
+
+header{
+    background: url("../image/back.png") no-repeat top center/contain ;
+    height:900px;
+}
+.top-line{
+    display:flex;
+    align-items: center;
+}
+.logo{
+    padding: 60px 95px;
+}
+.tel p{
+    color: white;
+    font-size: 24px;
+    border-left: 1px white solid;
+    padding: 20px 15px;
+}
+ul{
+    display: flex;
+}

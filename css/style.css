@@ -23,3 +23,23 @@ header{
 ul{
     display: flex;
 }
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color:#b1b1b1;
+    text-align: center;  
+}
+#headerText{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.price{
+    color:white;
+    background-color: #ff2626;
+    display: inline-flex;
+    max-width: 100%;
+}
